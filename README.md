@@ -27,3 +27,6 @@ Ao final das configurações a calculadora do Azure vai exibir o valor do nosso 
 
 Durante esse módulo foi aprendido sobre os sites fornecidos pela Microsoft para mais informação sobre datacenters e regiões ao redor do mundo.
 O foco do aprendizado desse módulo foi a criação de um grupo de recurso por meio do Portal da Azure. Ao criar e acessar um grupo de recursos temos como verificar logs de atividades, visualizador de recursos que é uma funcionalidade bem massa, onde os recursos criados dentro do grupo são estruturados em forma de uma árvore, podemos também criar eventos automatizados, verificar as etapas dos serviços criados em Inplantações e gerenciar politicas de seguraná em 'Segurança'. 
+
+## Resumo sobre o lab 2: Componentes de Arquiteturas do Azure
+Nesse Lab aprendi topos os passos e pontos importantes para a criação de uma máquina virtual no Azure. Também foi abordado a criação de uma área de trabalho virtual no azure para uso pessoal ou pool e por fim a professora abordou sobre a criação de um aplicativo de funções no azure.
